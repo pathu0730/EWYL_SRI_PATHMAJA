@@ -1,2 +1,4 @@
 # EWYL_SRI_PATHMAJA
-sample repositiory
+SRI PATHMAJA
+dept-EEE
+Roll no: 20EE029
